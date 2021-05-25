@@ -1,4 +1,4 @@
-def even_evens():
+def even_number_of_evens():
     """
     Should Raise a TypeError if a list in not passed into the function
     error message: "A list was not passed into the function"
