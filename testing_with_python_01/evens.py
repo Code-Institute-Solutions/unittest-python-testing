@@ -1,4 +1,4 @@
-def even_number_of_evens():
+def even_number_of_evens(numbers):
     """
     Should Raise a TypeError if a list in not passed into the function
     error message: "A list was not passed into the function"
@@ -7,7 +7,7 @@ def even_number_of_evens():
     if the numner of even numbers is even - return True
     """
 
-    return True
+    return None
 
 if __name__ == "__main__":
     print(even_number_of_evens(5))
